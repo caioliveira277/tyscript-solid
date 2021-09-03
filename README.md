@@ -1,5 +1,5 @@
 # TypeScript SOLID 👨‍💻
-## Projeto de estudos sobre ***SOLID*** e ***Typescript****
+## Projeto de estudos sobre ***SOLID*** e ***Typescript***
 
 <br>
 <p float="left">
