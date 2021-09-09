@@ -10,7 +10,7 @@
 <br>
 
 ## Ideia 💡:
-Apremder sobre a utilização do **Typescript** com conceitos básicos de **SOLID**
+Aprender sobre a utilização do **Typescript** com conceitos básicos de **SOLID**
 
 ## Funcionalidades:
 - Simulação de aplicação real;
